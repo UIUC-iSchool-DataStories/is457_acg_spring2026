@@ -6,13 +6,15 @@
 2. Step 2: [install Jekyll](https://jekyllrb.com/docs/installation/) (scroll down for OS-specific instructions)
 3. Step 3: cd into the local repo's directory
 4. Step 4: install bundles with `bundle install`
-5. Step 5: host locally with `bundle exec jekyll serve` and navigate to the URL with the repo's name in it that is printed out with this command
+5. Step 5: host locally with `bundle exec jekyll serve` and navigate to the URL with the repo's name in it that is printed out with this command (e.g. `http://127.0.0.1:4009/is457_acg_spring2026/`)
+   * for "live" reloads while editing do: `bundle exec jekyll serve -l` (note: you can only have on of these running at a time)
 6. Step 6: edit text files as needed to update slides, config, course data, etc
 7. Step 7: push changes to remote and wait for site to rebuild on the web (go to "Actions" tab on GitHub for progress)
 
 ## Step up Course for new semester
 
-
+* edit the `_config.yml` file to point to correct person, local site (this should be updated for this year)
+* edit the `_data/class.yml` file for correct year
 
 ### Basic Info
 
