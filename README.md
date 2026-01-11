@@ -26,3 +26,6 @@ uses the theme [dinky](https://github.com/pages-themes/dinky),
 For each week of class, create a subdirectory `weekZZ` (where `ZZ` is the week
 of the class) and place any `.ipynb` and `.md` files in that directory.
 Lectures can utilize the layout `lecture`, which will present them in revealjs.
+
+## To see notes:
+Add `?showNotes=true` before `#` in lecture.  For example, `https://uiuc-ischool-datastories.github.io/is457_bcubcg_fall2025/week01/lecture01p1.html?showNotes=true#/`
