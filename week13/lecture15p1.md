@@ -27,7 +27,7 @@ we want to go through the overall format of how the last day of classes is going
 
 ## Format of the Final Data Stories
 
-1. Presentation time is 10 minutes **MAX**
+1. Presentation time around 10 minutes. Try not to go over 13.
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 
 notes:
@@ -40,7 +40,7 @@ Make sure you have practiced your talk several times before the in person presen
 
 ## Format of the Final Data Stories
 
-1. Presentation time is 10 minutes **MAX**
+1. Presentation time around 10 minutes. Try not to go over 13
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 2. There will be ~5 minutes for questions/answers after each presentation
 
@@ -48,7 +48,7 @@ Make sure you have practiced your talk several times before the in person presen
 
 ## Format of the Final Data Stories
 
-1. Presentation time is 10 minutes **MAX**
+1. Presentation time around 10 minutes. Try not to go over 13
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 2. There will be ~5-10 minutes for questions/answers after each presentation
 3. Presentations will be run from your own laptop
@@ -61,7 +61,7 @@ What does this mean practically for you? ...
 
 ## Format of the Final Data Stories
 
-1. Presentation time is 10 minutes **MAX**
+1. Presentation time around 10 minutes. Try not to go over 13
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 2. There will be ~5-10 minutes for questions/answers after each presentation
 3. Presentations will be run from your own laptop
@@ -71,7 +71,7 @@ What does this mean practically for you? ...
 
 ## Format of the Final Data Stories
 
-1. Presentation time is 10 minutes **MAX**
+1. Presentation time around 10 minutes. Try not to go over 13
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 2. There will be ~5-10 minutes for questions/answers after each presentation
 3. Presentations will be run from your own laptop
@@ -82,13 +82,13 @@ What does this mean practically for you? ...
 
 ## Format of the Final Data Stories
 
-1. Presentation time is 10 minutes **MAX**
+1. Presentation time around 10 minutes. Try not to go over 13
  * we will give you a 3 minute and 1 minute warning and then we will play you off!
 2. There will be ~5-10 minutes for questions/answers after each presentation
 3. Presentations will be run from your own laptop
  * make sure you bring in any connectors/dongles you might need (the connection is HDMI in class)
  * you can use presenter notes, but we should not be able to tell you are using them 
-4. We will start exactly at 3:05pm in order to fit all presentations in on both days
+
 
 ---
 
@@ -100,8 +100,7 @@ What does this mean practically for you? ...
 3. Presentations will be run from your own laptop
  * make sure you bring in any connectors/dongles you might need (the connection is HDMI in class)
  * you can use presenter notes, but we should not be able to tell you are using them 
-4. We will start exactly at 3:05pm in order to fit all presentations in on both days
- * Groups will be called randomly - we will take 5 points off from group members that are not present
+4. Groups will be called randomly - we will take 10 points off from group members that are not present
  * If a group member does not show up at all, they will get a "0" for the assignment and the group will get a few points taken off (see Rubric for more details)
 
 ---
